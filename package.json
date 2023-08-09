@@ -1,24 +1,24 @@
 {
-  "name": "Asena-QR",
+  "name": "LISA - QR",
   "version": "2.0.0",
-  "description": "made by Afx-Abu free rest api",
+  "description": "made by SK x HM free rest api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/Asena-QR"
+    "url": "git+https://github.com/ajusk/LISA-QR"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "Afx-Abu",
+  "author": "SK x HM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Afx-Abu/Asena-QR/issues"
+    "url": "https://github.com/ajusk/LISA-QR/issues"
   },
   "homepage": "",
   "dependencies": {
